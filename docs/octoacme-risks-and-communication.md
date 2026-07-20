@@ -37,6 +37,10 @@ Incident Communication
 - Expected timeline
 - Post-incident blameless retrospective scheduled
 
+Security Incident Runbook Ownership
+- Security / Compliance Reviewer owns the security incident runbook and keeps it up to date.
+- Security / Compliance Reviewer coordinates the security escalation path with PM, Product Lead, and Sponsor.
+
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook owned by the Security / Compliance Reviewer and notify Security on-call

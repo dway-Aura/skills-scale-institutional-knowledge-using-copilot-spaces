@@ -14,6 +14,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Security / Compliance Reviewer sign-off completed for security findings and incident readiness
+- DevOps / Platform Engineer sign-off completed for deployment and rollback readiness
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
