@@ -5,7 +5,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
-- Weekly delivery sync — show progress, updates, and flagged risks
+- Weekly delivery sync — show progress, updates, and flagged risks (includes Engineering Lead / Tech Lead and DevOps / Platform Engineer participation)
 - Demo/Review at the end of each sprint or milestone
 
 ## Workflows
@@ -35,6 +35,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
-- [ ] CI configured for tests and lint
+- [ ] CI configured for tests and lint (owner: DevOps / Platform Engineer)
+- [ ] Deployment workflow ownership confirmed with DevOps / Platform Engineer
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
